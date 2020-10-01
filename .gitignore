@@ -1,3 +1,11 @@
+# git
 .git/
+
+# jupyter lab
 .ipynb_checkpoints/
+
+# google drive
 desktop.ini
+
+# project data
+#
